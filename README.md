@@ -1,3 +1,5 @@
 This is a Qt app that handles the draft lottery for my fantasy hockey league. The team name and weighted odd inputs are dynamically generated based on the value of a spinner box, so others could use it for their leagues as well. Eliminated teams are revealed one by one with suspenseful animations. When the elimination animations end the winner is revealed with a burst of confetti. 
 
+![app preview](https://dillonbordeleau.dev/draftlotterypreview.gif)
+
 In addition to the Qt project and C++ source files, this repository contains a windows build of the app, as well as an Inno Setup script that I used to create an installer to distribute the app on my [my fantasy hockey league's website](https://yofhl-db.vercel.app/lottery).
