@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/InterTight-VariableFont_wght.ttf</file>
+        <file>resources/yofhldblogo.png</file>
+        <file>resources/yofhllogo.png</file>
+    </qresource>
+</RCC>
