@@ -7,7 +7,7 @@ This is a Qt-based desktop application for running a draft lottery for your fant
 ## ✨ Features
 
 - **Dynamic Team Setup**  
-  Add or remove teams using a spinner input — the app will generate input fields for team names and their weighted odds accordingly.
+  Add or remove teams using a spinner input and the app will generate input fields for team names and their weighted odds accordingly.
 
 - **Animated Eliminations**  
   Watch teams get eliminated one by one with smooth, suspenseful animations built with Qt.
@@ -17,9 +17,9 @@ This is a Qt-based desktop application for running a draft lottery for your fant
 
 ## 📁 Included in This Repository
 
-- `mainwindow.cpp, draftlottery.pro` – Full C++ source code and the Qt project file can be found in the root directory.
-- `build/release` – A precompiled Windows build of the app.
-- `installerscript.iss` – An Inno Setup script used to generate a standalone Windows installer.
+- `mainwindow.cpp, draftlottery.pro` - Full C++ source code and the Qt project file can be found in the root directory.
+- `build/release` - A precompiled Windows build of the app.
+- `installerscript.iss` - An Inno Setup script used to generate a standalone Windows installer.
 
 ### Instructions
 
