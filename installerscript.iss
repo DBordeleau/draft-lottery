@@ -50,8 +50,8 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\13435\Desktop\QtProjects\draftlottery\build\release\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\13435\Desktop\QtProjects\draftlottery\resources\appicon.ico"; DestDir: "{app}";
+Source: "PATH_TO_RELEASE_FOLDER"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "PATH_TO_APP_ICON"; DestDir: "{app}";
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
